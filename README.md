@@ -5,3 +5,6 @@
 - 👩🏻‍💻 Passionate about tackling LeetCode puzzles and delving into complex problem-solving scenarios
 - 📫 Feel free to drop me an email at jankikjoshi1995@gmail.com
 - ⚡ Fun fact: Beyond the digital realm, I am a trained Indian classical dancer, finding rhythm and expression through the art form
+
+- You can find more details about me at : https://jjoshi03.github.io/
+
